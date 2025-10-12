@@ -27,6 +27,8 @@ Hi there, I'm <a href="https://www.linkedin.com/in/naitikpatel040725/">Naitik Pa
 **Tools & Platforms:**  
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 
+
+[![An image of @naitikpatel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naitikpatel)](https://holopin.io/@naitikpatel)
 <details>
 <summary><b>🌟 GSSoC'24 Badges</b></summary>
 <div align='center' style='display:flex; gap: 10px;'>
