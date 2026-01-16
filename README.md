@@ -31,7 +31,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/naitikpatel040725/">Naitik Pa
 [![An image of @naitikpatel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naitikpatel)](https://holopin.io/@naitikpatel)
 <details>
 <summary><b>🌟 GSSoC'24 Badges</b></summary>
-<div align='center' style='display:flex; gap: 10px;'>
+<div align='center' style='display:flex; gap: 10;'>
   <!-- Add images of badges here -->
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
@@ -44,14 +44,14 @@ Hi there, I'm <a href="https://www.linkedin.com/in/naitikpatel040725/">Naitik Pa
   <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redwing0021&theme=radical" alt="Profile Summary">
 </p>
 
-<p align="center">
-<!--   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=redwing0021&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/> -->
+<!-- <p align="center">
+<!--   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=redwing0021&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/> 
   <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=redwing0021&theme=radical" alt="Streak Stats"/>
-</p>
+</p> -->
 
 ## ☕ Support Me  
 <p align="center">
-  <a href="https://buymeacoffee.com/sayyadmast3" target="_blank">
+  <a target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"/>
   </a>
 </p>
